@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const CartCounter = () => {
-    const no_of_items_in_cart = 10;
+    const no_of_items_in_cart = 2;
 
     return (
         <>
